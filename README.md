@@ -1,3 +1,3 @@
 # kaggle.pneumothorax
 
-https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview
+Please review **harrison.ipynb** for a full view of this piece of work.
